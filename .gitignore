@@ -12,5 +12,5 @@ Thumbs.db
 /app/**/*.map
 
 /NSIS_SetupSkin/Output/
-
+/NSIS_SetupSkin/SetupScripts/nim/
 /NSIS_SetupSkin/FilesToInstall/**
